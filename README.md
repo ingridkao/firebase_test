@@ -17,7 +17,7 @@
 
 排序為**過去使用過**到**沒有使用過**的項目
 
-1. Authentication身份驗證: 包含登入
+1. [Authentication身份驗證](https://www.notion.so/ingridkao/FirebaseSDK-Firebase-Authentication-81c8e462c7934902b7658db33e78e2fe?pvs=4)
 2. Hosting: 託管部屬
 3. Realtime Database即時資料庫
 4. Cloud Storage: 使用NoSQL即時資料庫
